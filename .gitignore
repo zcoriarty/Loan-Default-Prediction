@@ -1,2 +1,3 @@
-loan_history.csv
+loan_data.csv
 .history
+.gitignore
