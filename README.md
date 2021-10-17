@@ -9,7 +9,7 @@ My dad was applying for house loan and was nervous about whether or not he would
 3. Dropped unnecessary features.
 4. Used numpy's log() and sqrt() to fix the skewed numerical data.
 5. Created a correletion heatmap using spearman coefficients to detect redundancy.
-6. Used ADASYNC to fix the 97:3 target ratio with synthetic data.
+6. Used ADASYN to fix the 97:3 target ratio with synthetic data.
 7. Checked the new distributions.
 8. Collected data for five different models and chose the best.
 ## Fixing skewed features
