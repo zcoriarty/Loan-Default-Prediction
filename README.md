@@ -1,5 +1,5 @@
 # Loan-Default-Prediction
-Main file to look at: linear_models.ipynb
+Main file to look at: sklearn.ipynb
 
 ## Reason for the project
 My dad was applying for house loan and was nervous about whether or not he would get it, so I figured I would make a model that would predict whether or not he would recieve a loan based on his features/credentials.
